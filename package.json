@@ -1,0 +1,18 @@
+{
+  "name": "discovery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Aline-ACS/imersao-RocketseatDiscovery.git",
+  "author": "Aline-Acs <aline_capoani@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
